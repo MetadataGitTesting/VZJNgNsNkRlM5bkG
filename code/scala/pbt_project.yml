@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: u3sv3kna.zhpyjwa0@utyd1lom.com
     createdAt: '2024-11-22 22:59:00'
     configurations:
-      pipelineConfigurations/terence.feeney/Chadwick_GorczanyJack_TuppDustin_Howe/dev:
-        name: dev
-        author: null
-        createdAt: '2024-11-22 22:59:00'
       pipelineConfigurations/terence.feeney/Chadwick_GorczanyJack_TuppDustin_Howe/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-11-22 22:59:00'
-      pipelineConfigurations/terence.feeney/Chadwick_GorczanyJack_TuppDustin_Howe/dev3:
-        name: dev3
         author: null
         createdAt: '2024-11-22 22:59:00'
     basePipeline: 47/pipelines/Chadwick_GorczanyJack_TuppDustin_Howe
