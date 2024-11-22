@@ -1,0 +1,74 @@
+name: gabrielle.schuster
+description: Persistent
+version: 0.0.1
+author: u3sv3kna.zhpyjwa0@utyd1lom.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: gabrielleschuster
+  parentArtefactID: u3sv3knazhpyjwa0utyd1lomcomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 22:58:59'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 22:58:59'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T22:58:59.839027Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '405254880'
+  createdAt: '2024-11-22T22:58:59.839027Z'
+  type: plibMaven
+projectDependencies:
+  '47':
+    projectUID: 47
+    projectName: terence.feeney
+    repositoryPath: gitUri=http://gitserver:3000/dev_Ykt7vUHO_team_93/dev_Ykt7vUHO_project_47.git&subPath=
+    version: terence.feeney/0.20.602
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 22:59:00'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/terence.feeney/Chadwick_GorczanyJack_TuppDustin_Howe:
+    author: u3sv3kna.zhpyjwa0@utyd1lom.com
+    createdAt: '2024-11-22 22:59:00'
+    configurations:
+      pipelineConfigurations/terence.feeney/Chadwick_GorczanyJack_TuppDustin_Howe/dev:
+        name: dev
+        author: null
+        createdAt: '2024-11-22 22:59:00'
+      pipelineConfigurations/terence.feeney/Chadwick_GorczanyJack_TuppDustin_Howe/dev2:
+        name: dev2
+        author: null
+        createdAt: '2024-11-22 22:59:00'
+      pipelineConfigurations/terence.feeney/Chadwick_GorczanyJack_TuppDustin_Howe/dev3:
+        name: dev3
+        author: null
+        createdAt: '2024-11-22 22:59:00'
+    basePipeline: 47/pipelines/Chadwick_GorczanyJack_TuppDustin_Howe
